@@ -1,1 +1,1 @@
-# root-finding-and-interpolation-algorithms
+# Root-finding-and-interpolation-algorithms
